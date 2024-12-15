@@ -1,6 +1,6 @@
 # Sales Analysis for Retail Store
 
-This repository contains a comprehensive analysis of retail sales data for XYZ Retail Store. The project includes data cleaning, exploratory data analysis, and predictive modeling.
+This repository contains a comprehensive analysis of retail sales data for a Retail Store. The project includes data cleaning, exploratory data analysis, and predictive modeling.
 
 ## Features
 - **Data Cleaning:** Handling missing values, duplicates, and type conversions.
