@@ -45,3 +45,8 @@ Here are some of the visualizations included in the project:
 1. Clone the repository:
    ```bash
    git clone https://github.com/SkSankeeth/sales-analysis.git
+
+2. Run the Python script to analyze the data.
+
+## License
+This project is open-source under the MIT License.
