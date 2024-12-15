@@ -1,4 +1,4 @@
-# Sales Analysis for XYZ Retail Store
+# Sales Analysis for Retail Store
 
 This repository contains a comprehensive analysis of retail sales data for XYZ Retail Store. The project includes data cleaning, exploratory data analysis, and predictive modeling.
 
